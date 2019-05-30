@@ -75,6 +75,10 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: prontera
 
+marked:
+  gfm: true
+  breaks: false
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:

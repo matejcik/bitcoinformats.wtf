@@ -3,6 +3,7 @@ favicon: /favicon.ico
 # Nav Menus
 menu:
     Index: /
+    About: /about
     Archives: /archives
 
 # Nav Shortcut Icons
@@ -11,9 +12,9 @@ nav_icons:
     - ['/images/rss.svg', '/atom.xml']
 
 # Friend Links
-friend_links:
-    - ['AngryPowman', 'This is a link', 'http://powman.org']
-    - ['Demo Links', 'You can change this in your theme config', 'http://powman.org']
+# friend_links:
+#     - ['AngryPowman', 'This is a link', 'http://powman.org']
+#     - ['Demo Links', 'You can change this in your theme config', 'http://powman.org']
 
 
 # About
