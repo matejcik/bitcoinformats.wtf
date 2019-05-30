@@ -1,0 +1,35 @@
+favicon: /favicon.ico
+
+# Nav Menus
+menu:
+    Index: /
+    Archives: /archives
+
+# Nav Shortcut Icons
+nav_icons:
+    - ['/images/github.svg', 'https://github.com/matejcik']
+    - ['/images/rss.svg', '/atom.xml']
+
+# Friend Links
+friend_links:
+    - ['AngryPowman', 'This is a link', 'http://powman.org']
+    - ['Demo Links', 'You can change this in your theme config', 'http://powman.org']
+
+
+# About
+about_info:
+    name: "matejcik"
+    bio: "it me"
+    avatar: "/images/avatar.png"
+
+# Comment
+# e.g disqus: seansun
+# disqus: angrypowman
+# duoshuo: 
+
+# Analytics
+# google_analytics: angrypowman
+# tencent_analytics: 
+ 
+# Copyright Infomation
+startyear: 2018
