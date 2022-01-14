@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/pinggod/hexo-theme-prontera#readme",
   "devDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-autoprefixer": "^3.0.2",
-    "gulp-sass": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-sass": "^5.1.0"
   }
 }
