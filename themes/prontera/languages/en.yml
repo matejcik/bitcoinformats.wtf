@@ -1,6 +1,6 @@
 prev: PREV
 next: NEXT
-prev_post: PREV
-next_post: NEXT
+prev_post: "<<"
+next_post: ">>"
 more: READ MORE
 friend_link: LINKS
