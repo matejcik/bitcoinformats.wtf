@@ -1,7 +1,7 @@
 ---
 title: 'What is a Bitcoin address?'
 date: 2022-01-14 15:54:31
-tags: bitcoin
+tags: bitcoin, non-technical, layman
 ---
 
 An address is a piece of text that encodes some data. This data has a very interesting
